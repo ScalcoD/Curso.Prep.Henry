@@ -1,0 +1,6 @@
+For:
+for es un tipo de bucle, el cual nos ayuda a realizar acciones repetitivas, siempre debemos establecer un inicio, un final y el sentido de este (+ o -)
+tenemos 3 tipos de operadores logicos, los cuales sirven para realizar operaciones con sentido booleano.
+son el "||", significa en español "o", 
+tambien trabajamos con &&, el cual significa "y"
+y por ultimo tenemos "!", el cual usamos cuando queremos negar algo.
